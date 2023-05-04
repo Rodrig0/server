@@ -17,3 +17,4 @@ Para visualizar o swagger basta acessar a URL abaixo:
 ```
 http://127.0.0.1:5004/swagger-ui
 ```
+Em seguida, execute o passos descritos no readme do frontend (client) para inicializar o web app.
