@@ -8,8 +8,8 @@ flask run -p 5004
 A API poderá ser acessada com o endpoints abaixo:
 
 ```
-'http://localhost:5004/books'
-'http://localhost:5004/books/<string:book_id>'
+http://localhost:5004/books
+http://localhost:5004/books/<string:book_id>
 ```
 
 Para visualizar o swagger basta acessar a URL abaixo:
